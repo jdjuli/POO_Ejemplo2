@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo 2</string>
+    <string name="c_mo_te_llamas">¿Cómo te llamas?</string>
+    <string name="saludame">Saludame</string>
+    <string name="nombre">Nombre</string>
+    <string name="hola">Hola</string>
+</resources>
